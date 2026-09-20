@@ -29,7 +29,7 @@ The scanner module exposes a `scan_target(target, ports, timeout, workers)` func
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/jainamdave/netguard.git
+git clone https://github.com/jainamdave1234-design/netguard.git
 cd netguard
 
 # (Optional) create a virtual environment
